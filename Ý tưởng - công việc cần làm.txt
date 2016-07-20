@@ -1,0 +1,23 @@
+﻿- Home
++ Header Logo - Menu
++ Slider : Ảnh + Solgan +...
++ THÔNG TIN (giới thiệu sơ qua về website, dịch vụ, mục đích website...)
++ SẢN PHẨM (Rang Xay | Hạt)
++ ĐỐI TÁC (Info Đại lý + Ảnh)
++ KHÁCH HÀNG (Info Quán + Ảnh + Liên kết)
++ Vị trí của chúng tôi (Đại lý) (map)
++ Thống kê như trungnguyen.com.vn
++ LIÊN HỆ (Để lại info người sử dụng cần hỗ trợ, mình sẽ liên hệ trực tiếp để tư vấn)
++ Footer: Info Contact (của mình)
+- Shop
++ Show all list
++ Tìm kiếm, Lọc theo hãng, loại cafe, sản phẩm sale, Sắp xếp theo giá, theo tên, lượt mua thành công
+( Vì mình không phân loại nhiều nên dùng chức năng lọc, tìm kiếm, sắp xếp cho khỏe)
+=> muốn phát triển thì phải phân loại theo category
+- Product
++ Show Tên, Giá, Mô tả, ô đặt hàng
++ Show Hướng Dẫn Sử Dụng
++ Show Review, Đánh giá thông qua facebook (đỡ tạo user)
+---------------------------------------------------------
+- Customer - Chưa có ý tưởng :v làm tiếp đê :))
+- 
