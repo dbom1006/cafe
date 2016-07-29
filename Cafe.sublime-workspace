@@ -1,0 +1,663 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bas",
+				"baseurl"
+			],
+			[
+				"url",
+				"urlimage"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"onc",
+				"onchange	Attr"
+			],
+			[
+				"imga",
+				"imageupload"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"C",
+				"CKEDITOR"
+			],
+			[
+				"edit",
+				"edit_editor"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"Ca",
+				"CATEGORY"
+			],
+			[
+				"ca",
+				"category_product"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"5",
+				"5BC0EB"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bs3",
+				"bs3-navbar	bs3-navbar"
+			],
+			[
+				"bs3-css",
+				"bs3-cdn:css	bs3-cdn-css"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bs3-",
+				"bs3-select	bs3-select"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ou",
+				"outline-offset"
+			],
+			[
+				"on",
+				"outline-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"bs3-inpu",
+				"bs3-input:url	bs3-input-url"
+			],
+			[
+				"bs3inpu",
+				"bs3-input-group	bs3-input-group"
+			],
+			[
+				"bsbut",
+				"bs3-button:danger	bs3-button-danger"
+			],
+			[
+				"bs3-but",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"bs3-bu",
+				"bs3-block-button	bs3-block-button"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar	bs3-navbar"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ai",
+				"animation"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"Ope",
+				"OpenSans-Regular"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bs3-htm",
+				"bs3-template:html5	bs3-html5-template"
+			],
+			[
+				"next",
+				"nextchoosetag"
+			],
+			[
+				"cut",
+				"cutstyle"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"sta",
+				"statue_side_"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"nextch",
+				"nextchooseside"
+			],
+			[
+				"nex",
+				"nextstatueengrave"
+			],
+			[
+				"st",
+				"stonecolor"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"arr",
+				"arrcharm"
+			],
+			[
+				"ste",
+				"step"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"fin",
+				"fingerprint"
+			],
+			[
+				"fi",
+				"fingerprint"
+			],
+			[
+				"chil",
+				"childback"
+			],
+			[
+				"stone",
+				"stonecolor"
+			],
+			[
+				"ston",
+				"stonecolor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"da",
+				"dataoption"
+			],
+			[
+				"ima",
+				"imagename"
+			],
+			[
+				"bir",
+				"birth"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"ele",
+				"else"
+			],
+			[
+				"no",
+				"notag"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"bs3na",
+				"bs3-navbar:responsive	bs3-navbar-responsive"
+			],
+			[
+				"bs3nav",
+				"bs3-navbar:inverse	bs3-navbar-inverse"
+			],
+			[
+				"bs3tabs",
+				"bs3-tabs	bs3-tabs"
+			],
+			[
+				"bs3img",
+				"bs3-image	bs3-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"bs3h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Study/Web/Cafe"
+	],
+	"file_history":
+	[
+		"/D/Study/Web/xampp/htdocs/oCoder/index.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/loader.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/basemodel.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/helper.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/basecontroller.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/view.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/controllers/user.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/models/home.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/viewmodel.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/models/account.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/classes/database.php",
+		"/D/Study/Web/xampp/htdocs/oCoder/media/css/bootstrap.min.css",
+		"/D/Study/Web/Fitness/application/libraries/pagination.php",
+		"/D/Study/Web/Fitness/banner.html",
+		"/D/Study/Web/Fitness/css/fitness.css",
+		"/D/Study/Web/Fitness/header.html",
+		"/D/Study/Web/Fitness/admin/user/function.php",
+		"/D/Study/Web/Fitness/post/index.php",
+		"/D/Study/Web/Fitness/right_favorite.html",
+		"/D/Study/Web/Fitness/categories.html",
+		"/D/Study/Web/Fitness/post/post-detail.html",
+		"/D/Study/Web/Fitness/application/libraries/config.php",
+		"/D/Study/Web/Fitness/head.html",
+		"/D/Study/Web/Fitness/uploadimage.php",
+		"/D/Study/Web/Fitness/js/fitness.js",
+		"/D/Study/Web/Fitness/admin/post/index.php",
+		"/D/Study/Web/Fitness/upload.php",
+		"/D/Study/Web/Fitness/upload/upload.php",
+		"/D/Study/Web/Fitness/editor.html",
+		"/D/Study/Web/Fitness/admin/user/user.php",
+		"/D/Study/Web/Fitness/admin/product/index.php",
+		"/D/Study/Web/Fitness/admin/user/group.php",
+		"/D/Study/Web/Fitness/admin/index.php",
+		"/D/Study/Web/Fitness/new-post.html",
+		"/D/Study/Fitness/content.phtml",
+		"/D/Study/Fitness/index.php",
+		"/D/Study/Fitness/css/bootstrap.css",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/options/size.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/options/color.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/code/local/DTCustom/Customize/sql/customize_setup/mysql4-upgrade-0.1.5-0.1.6.php",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/customize.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/js.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/options/engrave_statue.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/code/local/DTCustom/Customize/controllers/Adminhtml/Catalog/ProductController.php",
+		"/D/Study/Xampp/htdocs/cjproject/app/code/local/DTCustom/Customize/etc/config.xml",
+		"/D/Study/Xampp/htdocs/cjproject/app/design/frontend/arw_leka/default/template/customize/catalog/product/view/options/engrave_tag.phtml",
+		"/D/Study/Xampp/htdocs/cjproject/app/code/local/DTCustom/Customize/Block/Customize/Tag.php",
+		"/D/Study/Xampp/htdocs/cjproject/app/code/local/DTCustom/Customize/sql/customize_setup/mysql4-upgrade-0.1.4-0.1.5.php",
+		"/D/Softwares/Sublime Text 3/123",
+		"/D/Softwares/Sublime Text 3/test",
+		"/D/Softwares/Sublime Text 3/1.html",
+		"/C/Users/Administrator/Desktop/Shop/1/Home.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function error()",
+			"error()",
+			"padding",
+			"title",
+			"a:hover",
+			";\n",
+			"list-post",
+			"thumb",
+			"thump",
+			"add_edit",
+			"edit_editor",
+			"type.php",
+			"type<",
+			"Category",
+			"type",
+			"type.php",
+			"sản phẩm",
+			"content",
+			"min",
+			"footer",
+			"span",
+			"li",
+			"div",
+			"img",
+			"logo",
+			"span",
+			"right",
+			"div",
+			"nextstonecolor",
+			"nextchooseside",
+			"nextstatue",
+			"nextstone",
+			"numbercharm",
+			"choosenum",
+			"nextstatue",
+			"nextstonecolor",
+			"nextcolor",
+			".engrave",
+			"engrave",
+			"type_statue",
+			"$collectionStatue",
+			"collectionStatue",
+			"nextchooseside",
+			"nextstatue",
+			"nextstatueengrave",
+			"nextstatue",
+			"backsidehandnext",
+			"handnext",
+			"cutstyle",
+			"nextstatue()",
+			"cons",
+			"statue_side_",
+			"clear(",
+			"setStatue",
+			"clear(",
+			"clear",
+			"clearchild",
+			"clear",
+			"div",
+			"backtocharm",
+			"CustomizeCJ.step[CustomizeCJ.step.length-1].includes('statue_engrave_')",
+			"mizeCJ.step.length-1].includes",
+			"edit",
+			"backsidehandnext()",
+			"backsidenext",
+			"stonecolor",
+			"goback()",
+			"edit",
+			"<?php",
+			"<?php ",
+			"div",
+			"CustomizeCJ.arrcharm[i].backside",
+			"nextengrave()",
+			"nextcharm",
+			"nextchooseside",
+			"nextcharm",
+			"backsidenext",
+			"clear",
+			"nextcharm()",
+			"nextcharm",
+			"nextstatueengrave()",
+			"CustomizeCJ.arrcharm[i].backside",
+			"backside",
+			"gobackengrave",
+			"nextcharm",
+			"backtocharm",
+			"step2",
+			"gobackengrave",
+			"stone",
+			"arrcharm.",
+			"charm",
+			"push",
+			"summary",
+			"nextstatueengrave",
+			"CustomizeCJ.summary",
+			"colorvisited",
+			"visited",
+			"nextchoosetag",
+			"nextstatueengrave",
+			"backtocharm",
+			"step",
+			"&& CustomizeCJ.arrcharm[i].child.name=='handwriting'",
+			"nextcharm",
+			"handimage",
+			"stonecolorsummary",
+			"id",
+			"cjColor",
+			"nextsummary",
+			"nextchoosetag",
+			"choose_tag",
+			"nexttag",
+			"choose_tag",
+			"sumprice",
+			"setfont",
+			"addClass",
+			"removeClass",
+			"cleartag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"category.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cafe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Study\\Web\\Fitness\\Fitness.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
