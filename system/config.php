@@ -8,7 +8,7 @@ define('DB_USER',       'root');
 define('DB_PASSWORD',   '');
 
 //Controller & Action mặc định
-define('CONTROLLER_DEFAULT', 'index');
+define('CONTROLLER_DEFAULT', 'home');
 define('ACTION_DEFAULT', 'index');
 
 ?>

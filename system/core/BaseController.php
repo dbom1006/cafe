@@ -28,7 +28,7 @@ class BaseController{
 		if(!method_exists($ClassController, $action))
 			die("Bad Url! Action không tồn tại.");
 
-		$ClassController->{$action};
+		$ClassController->{$action}();
 	}
 }
 
