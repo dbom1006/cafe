@@ -4,6 +4,7 @@ class HomeController{
 
 	public function index(){
 		echo '<a href="'.BASE_URL.'admin.php?c=catogery">CATOGERY</a>';
+		var_dump($_GET);
 	}
 }
 
